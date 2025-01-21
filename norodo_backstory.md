@@ -1,0 +1,23 @@
+# A Pilgrim of Torm, Shaped by Shadows
+
+You were born into a devout family who followed **Torm**, the guardian of duty and eternal justice. Your childhood was steeped in the doctrines of courage, selflessness, and the sacred bond between life and death. From a young age, you were a dedicated student of Torm, studying his teachings and serving in rituals meant to honor the living and guide the departed to their rest. Your dream was to one day become a revered cleric, upholding Torm’s justice and compassion.
+
+However, fate had different plans. As a teenager, you were selected for the **Simic Hybrid Process**, a procedure known only in whispers. Promised as a divine experiment, this process was said to create enhanced individuals capable of enduring greater trials in Torm’s service. The truth was far grimmer. The sect’s leaders believed augmenting the mortal form could create a better vessel for divine will, but the results were far from consistent.
+
+Your body was altered, reshaped into something neither fully mortal nor monstrous. The process left you stronger but grotesque, your form alien and unsettling to those who once embraced you as kin. At first, you tried to remain within the sect, but whispers of heresy grew. Devout followers began to look upon you with fear and disdain, seeing you not as a blessed creation but as an abomination. The elders turned their backs on you, and the once-familiar halls of the sect became suffocating with rejection and suspicion.
+
+Eventually, you were abandoned—cast out under the guise of **pilgrimage**. With nowhere to go, you wandered, seeking solace in Torm’s light while battling the growing darkness within. Your grotesque appearance made living among others difficult. Villagers called you a monster, and adventurers hunted you as prey, mistaking you for a dangerous creature. The robes you once wore out of reverence became your shield, concealing your body and allowing you to exist without spreading fear.
+
+For years, you traveled from place to place, guided by chance and the quiet belief that Torm’s light still watched over you. You found work where you could, tending to the dead and offering final rites in secret. Along the way, you encountered both kindness and cruelty: a blind mystic who accepted you without judgment, a gruff caravan leader who valued your skills over appearances, and a halfling merchant whose practical wisdom reminded you that survival is a journey, not a destination. These fleeting connections strengthened your resolve to live by Torm’s teachings, even as the world seemed to reject you.
+
+Finally, five years after your exile, your wandering brought you to **Winterhaven**, a burgeoning city you reached more by chance than design. Though hesitant at first, you found a small community willing to look past your reclusive nature. The people of Winterhaven appreciated your skills, and your plague doctor attire became a part of your persona, allowing you to work quietly without drawing undue attention. For the first time in years, you found a fragile sense of peace.
+
+Then, eight months later, the **Orcish War** began. Winterhaven fell under siege, and you once again found yourself surrounded by death and chaos. The call to action was immediate, and you stepped forward to assist in evacuating refugees, tending to the dead, and treating the wounded. It was during this time that the true horror began.
+
+One fateful night, while preparing mass graves, you encountered a field of twisted corpses, their faces frozen in expressions of unspeakable terror. Whispers filled the air, accusing you of failure, betrayal, and cowardice. You fled, unable to complete your work, the haunting voices following you long after the battlefield fell silent.
+
+*[Origin: Haunted One]*
+
+When Winterhaven fell, you joined the survivors in their flight eastward, your reclusive nature returning as you grappled with the guilt and torment of that night. In the newly established **New Winterhaven**, you dedicated yourself to rebuilding—physically, emotionally, and spiritually. You worked tirelessly as a healer and mortician, quietly tending to the community and ensuring the dead found peace.
+
+Though you now serve as part of **Alaynia Vice’s** elite team, the shadows of your past still linger. At night, you write poetry in your diary, capturing the fear, guilt, and fragile hope that define your existence. You practice hymns as tribute on the walls at night, your voice a quiet echo of prayers for redemption. You cling to Torm’s light, praying it will guide you to understanding. Yet, deep down, you fear that the horrors you faced cannot be escaped and that the whispers will one day claim you.
