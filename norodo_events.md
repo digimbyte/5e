@@ -97,4 +97,8 @@ When the group reached Winterhaven, Marvin introduced you to **Eldrin Fallowmere
 
 Upon settling, you became part of the fabric of Winterhaven—not as a figure of prominence, but as a quiet presence who worked diligently behind the scenes. Your plague doctor attire shielded your identity, but it also allowed others to focus on your actions rather than your appearance.
 
-The townsfolk came to know you as a reliable and steadfast healer who asked for nothing in return, tending to the wounded and offering quiet prayers for the dead. You lived simply, echoing the words of your compatriots and listening more than you spoke. Your reclus
+The townsfolk came to know you as a reliable and steadfast healer who asked for nothing in return, tending to the wounded and offering quiet prayers for the dead. You lived simply, echoing the words of your compatriots and listening more than you spoke. Your reclusive nature earned you privacy, while your skill earned you respect, though you sought neither.
+
+When the **Orcish War** broke out, you answered the call—not as a warrior, but as a healer and custodian of the fallen. You worked tirelessly to mend the wounded, bury the dead, and comfort grieving families, all while remaining in the background. Your efforts were not celebrated, but they were felt deeply by those you served.
+
+In Winterhaven, you found a fragile peace—a chance to practice Torm’s teachings in quiet devotion, away from the judgment of the past. It was not the life you had envisioned, but it was one you accepted with humility and resolve.
