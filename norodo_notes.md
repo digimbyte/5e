@@ -153,3 +153,29 @@ Below are some plausible adversaries who may pose a threat, given your history:
    - **Origin**: Shady elements who learn of your past and transformation.
    - **Motivation**: Potential blackmail, reward claims for exposing a “monster,” or selling secrets.
    - **Possible Conflict**: Extortion, betrayal, or attempts to reveal your ident
+
+---
+
+# Previous Encounters
+
+## Baldur’s Gate
+- **Undead in Crypts and Sewers**: Zombies, skeletons, and ghouls can lurk in hidden catacombs and abandoned tunnels.  
+- **Cult Activity**: Necromancers or small cults may reanimate corpses or acquire them for dark rituals.  
+- **Rumors of Fiends/Aberrations**: Adventurers occasionally whisper about fiends or tentacled horrors, though proof is scarce.
+
+## Waterdeep
+- **City of the Dead Hauntings**: Ghosts and restless spirits sometimes reputed to wander the graveyard district at night.  
+- **Extraplanar Creatures**: With its abundance of magic, Waterdeep sees rumors of minor demons or aberrations.
+
+## Daggerford and the Trade Way
+- **Bandits and Beasts**: Highwaymen, wolves, and occasional werebeasts are typical threats.  
+- **Local Undead Tales**: Rural crypts may have ghoulish stories or haunted legends.
+
+## Fairheight Mountains / Sunderstaad Region
+- **Mountain Humanoids**: Gnolls, orcs, and similar foes in higher elevations.  
+- **Cult Experiments**: The Order of the Bound Scale’s forbidden experiments might lead to unusual undead or aberrations.
+
+## General Occult Knowledge
+- You’ve worked with the dead (mortician/funerary duties) and traveled widely (Baldur’s Gate, Waterdeep, etc.).  
+- You have broad, surface-level familiarity with common undead (zombies, skeletons, ghouls) and rumors of more terrifying entities (mind flayers, fiends).  
+- Detailed expertise would require deeper study or a direct encounter—most of your knowledge is practical and anecdotal.
