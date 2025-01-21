@@ -156,26 +156,41 @@ Below are some plausible adversaries who may pose a threat, given your history:
 
 ---
 
-# Previous Encounters
+# Previous Encounters: General Creatures, Rumors, and Superstitions
+
+Below is a **broad overview** of creatures, undead, and other horrors you may have heard about, encountered, or investigated during your travels. This list reflects **common threats and rumors** in the regions you passed through, plus the **insights** you might gain as a traveling mortician and healer.
+
 
 ## Baldur’s Gate
-- **Undead in Crypts and Sewers**: Zombies, skeletons, and ghouls can lurk in hidden catacombs and abandoned tunnels.  
-- **Cult Activity**: Necromancers or small cults may reanimate corpses or acquire them for dark rituals.  
-- **Rumors of Fiends/Aberrations**: Adventurers occasionally whisper about fiends or tentacled horrors, though proof is scarce.
+- **Urban Undead**: Stories of undead in city sewers, forgotten crypts, or poorly guarded mausoleums. Necromancers sometimes **steal corpses** for dark experiments.  
+- **Cult Activities**: Occasional rumors of clandestine groups summoning **fiends**, dabbling in blood magic, or consorting with otherworldly entities.  
+- **Seafaring Legends**: Being a major port, sailors may tell tales of **sea creatures** or bizarre island hauntings—not always proven, but widely circulated in taverns.
+
 
 ## Waterdeep
-- **City of the Dead Hauntings**: Ghosts and restless spirits sometimes reputed to wander the graveyard district at night.  
-- **Extraplanar Creatures**: With its abundance of magic, Waterdeep sees rumors of minor demons or aberrations.
+- **City of the Dead**: Though well-maintained, persistent rumors speak of **ghostly apparitions** and **restless spirits** in certain corners of the public graveyard.  
+- **Magical Mishaps**: As a hub of spellcasters, Waterdeep sees occasional incidents where **summoned creatures** (elementals, minor fiends) cause disturbances.  
+- **Widespread Hearsay**: Word travels quickly here—adventurers from far-off lands spread **tall tales** of dragons, arcane horrors, and curses beyond mortal ken.
+
 
 ## Daggerford and the Trade Way
-- **Bandits and Beasts**: Highwaymen, wolves, and occasional werebeasts are typical threats.  
-- **Local Undead Tales**: Rural crypts may have ghoulish stories or haunted legends.
+- **Highway Threats**: **Bandits, wolves, and occasionally werebeasts** are the main perils for caravans. Sometimes travelers report **“crypt robbers”** or feral undead on the outskirts of neglected cemeteries.  
+- **Tales from Travelers**: Passing merchants and pilgrims might share local superstitions about **bogeymen** in the wilds or **cursed ruins** just off the main road.
 
-## Fairheight Mountains / Sunderstaad Region
-- **Mountain Humanoids**: Gnolls, orcs, and similar foes in higher elevations.  
-- **Cult Experiments**: The Order of the Bound Scale’s forbidden experiments might lead to unusual undead or aberrations.
 
-## General Occult Knowledge
-- You’ve worked with the dead (mortician/funerary duties) and traveled widely (Baldur’s Gate, Waterdeep, etc.).  
-- You have broad, surface-level familiarity with common undead (zombies, skeletons, ghouls) and rumors of more terrifying entities (mind flayers, fiends).  
-- Detailed expertise would require deeper study or a direct encounter—most of your knowledge is practical and anecdotal.
+## Fairheight Mountains & Sunderstaad Region
+- **Savage Humanoids**: Gnolls, orcs, and raiders frequently harass remote villages.  
+- **Order of the Bound Scale Experiments**: You know firsthand that **unorthodox alchemy** could spawn unnatural creatures or half-finished “hybrids,” though specifics remain secret.  
+- **Mountain Lore**: Superstitious locals speak of **haunted passes**, hidden tombs, and primeval beasts lurking high in the peaks.
+
+
+## General Occult & Superstitions
+- **Mortician’s Insight**: Handling corpses (sometimes with unexplained wounds or missing organs) exposed you to **odd cases** that regular citizens rarely see.  
+- **Third-Hand Rumors**: Whether in Baldur’s Gate, Waterdeep, or along trade routes, **travelers’ tales** often mention monstrous threats—from undead horrors to strange beasts—in outlying regions.  
+- **Surface-Level Understanding**: You’re aware of the **existence** of many creatures (undead, fiends, aberrations, and more), but your **depth of knowledge** varies. Exact lore often requires specialized study or firsthand encounters.
+
+
+## Concluding Notes
+- **Practical Experience**: You’ve **prepared bodies** showing signs of necromantic tampering, monstrous attacks, or eerie phenomena.  
+- **Unverified Stories**: Much of your knowledge about more exotic horrors (e.g., powerful fiends, aberrations, or legendary beasts) is **based on rumor** and **local superstition**.  
+- **DM’s Discretion**: Your exact level of familiarity depends on how often you investigated these cases in-depth—or if you mostly passed on the information to local authorities before moving on.
