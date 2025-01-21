@@ -96,17 +96,32 @@ and find solace in your unending light."*
 **Core Message:** Mercy and compassion can inspire redemption and turn even adversaries into allies, demonstrating the transformative power of justice.
 
 ### The Farmer’s Shield
-*"A humble farmer once found himself in the path of a marauding band of raiders. Though untrained in combat, he raised a makeshift shield and stood before his family, determined to protect them. When the raiders came, the townsfolk, inspired by his courage, rallied to his side. Together, they drove off the attackers. The farmer’s shield, once simple and crude, became a symbol of the unity and bravery of the people. It now hangs in the village square, a reminder that even the ordinary can stand strong when guided by faith and courage. Each harvest, the villagers gather to honor Torm and the courage that saved them."*
+*"A humble farmer, devoted to Torm, lived outside the safety of a city’s walls. One day, a marauding band of raiders descended upon his home. Though untrained and outnumbered, the farmer fought to defend his family, holding the raiders at bay until he was beaten and left crippled. As they left, the raiders promised to return and finish what they started. The city, watching from afar, had not come to his aid. But the farmer’s bravery and faith inspired the townsfolk to act. 
+
+They built a larger, stronger shield—a wall of unity that surrounded the farmer’s homestead, vowing to protect him as he had protected his family. When the raiders returned, they were met by the combined strength of the townsfolk, who fended them off until the city guards arrived to rout them. The farmer, though broken in body, became a symbol of Torm’s teachings: through unity and shared fate, strength can be found. His shield now hangs in the town square, a reminder that protecting one protects all."*
 
 **Core Message:** Courage inspires unity, and even the smallest acts of bravery can lead to great victories.
 
 ### The Broken Blade
-*"A paladin of Torm, his sword shattered in battle, faced a rampaging demon with nothing but the hilt of his weapon. Refusing to retreat, he used the remnants of his blade to parry blows, holding the line long enough for his comrades to regroup and banish the demon. Though battered and broken, the paladin stood triumphant. The hilt was later reforged into a ceremonial relic, carried by future champions of Torm as a reminder that strength is found not in steel, but in the unwavering resolve to do what is right."*
+*"A paladin of Torm stood against a demon that had torn through the countryside, leaving only destruction in its wake. As he charged, the demon’s massive claw shattered his sword, leaving him with only the hilt. The demon laughed, its voice echoing with cruel mockery, 'You face me with nothing but a broken stick?'
 
-**Core Message:** Duty transcends limitations; even when all seems lost, commitment to righteousness can lead to triumph.
+But the paladin did not waver. He tightened his grip on the hilt, drawing strength not from the steel that had failed him, but from the unshakable resolve in his heart. He dodged the demon’s next strike with a roll, his eyes scanning the battlefield for an advantage. The demon swung again, but the paladin used the hilt to deflect the blow, redirecting the monster’s strength against it. Patience guided his every move as he baited the demon into overextending.
+
+Finally, the paladin spotted his chance: a jagged shard of his broken blade, glinting amidst the rubble. As the demon lunged, he evaded and plunged the shard into its exposed side. The demon roared in pain, but the paladin pressed on, delivering a final, decisive strike with the hilt of his sword, crushing the shard deeper into its chest. The beast fell, its body dissolving into ash as the divine light of Torm seared through it.
+
+Bruised and battered, the paladin knelt where the demon had fallen, his broken weapon in hand. 'A blade is not what makes a warrior,' he whispered. 'It is the will to protect and the wisdom to endure.' The hilt was later reforged into a ceremonial relic, a symbol of patience, cunning, and bravery, carried by future champions of Torm as a reminder that true strength comes from within."*
+
+**Core Message:** Duty transcends limitations; even when all seems lost, A warrior’s strength lies not in their weapon, but within.
 
 ### The Lantern Bearer
-*"During a storm that plunged an entire village into darkness, a cleric of Torm lit a single lantern and walked the streets, guiding people to safety. Though weary, the cleric never faltered, ensuring every soul found shelter. By dawn, the storm had passed, and the cleric’s lantern became a symbol of hope. The village later enshrined the lantern in their chapel, its flame representing the guiding light of Torm and the power of perseverance. The cleric’s actions taught the people that even in the darkest times, a single light can lead the way."*
+*"One fateful day, a storm of unnatural darkness and freezing cold swept through a village, blotting out the sun in an instant. Snow fell in great drifts, and the villagers, caught unprepared, found themselves trapped outside in the deadly cold. Amid the chaos, a warrior of Torm emerged, carrying a single lantern that shone defiantly against the darkness. 
+
+He guided panicked villagers to safety, ensuring each found their way home. 
+~~But as the storm grew fiercer, the lantern’s light faltered, and the warrior made a fateful decision. Stripping his own cloak, he used the fabric to reignite the flame, shielding it with his body. He stood at the heart of the village, burning away his very garments to keep the light alive, becoming a beacon for those still lost.
+
+When the storm finally passed, five feet of snow blanketed the ground, but the light still shone, undimmed. The warrior was found standing, frozen in place, his body shielding the flame that had saved the village. The people buried him with honor, building a great tomb around the spot where he stood.~~
+
+The flame was preserved, becoming an eternal beacon that drives away all manner of evil and reveals the truth. To this day, the villagers honor his sacrifice, and the light of Torm continues to shine, protecting the faithful from darkness and deception."*
 
 **Core Message:** Hope and guidance often come from the smallest efforts; never underestimate the power of light in darkness.
 
