@@ -86,22 +86,22 @@ and find solace in your unending light."*
 ## Short Stories to Inspire
 
 ### The Vigilant Soldier
-*"There once was a soldier who stood watch for three days without rest. When asked why he did not take a moment to sleep, he said, 'Because if I falter, others may fall. Duty is my shield, and vigilance my blade.' His unwavering watch inspired the village to remain ever vigilant themselves. Though his post eventually ended, his example taught the people that protection begins with courage and steadfastness. To this day, the village credits their peace to the soldier’s unyielding dedication, honoring his legacy with acts of vigilance and faith in Torm."*
+*"There once was a soldier who stood watch for three days without rest. When asked why he did not take a moment to sleep, he said, 'Because if I falter, others may fall. Duty is my shield, and vigilance my blade.' At the end of the third day, the soldier passed away at his post, his body unmoving but steadfast. To this day, the village remains protected, for no other guard is needed. The soldier’s sacrifice is revered, and offerings are left at his resting place each year in honor of his unwavering duty. Through him, Torm’s presence is felt, and his watch is eternal."*
 
-**Core Message:** Duty requires vigilance and sacrifice, as protection often depends on those who stand steadfast in their resolve.
+**Core Message:** Duty and vigilance transcend mortality; a true protector’s sacrifice resonates beyond their lifetime, solidifying their bond with the divine.
 
 ### The Compassionate Knight
-*"A knight once faced an enemy who begged for mercy after defeat. Others urged him to deliver the final blow, but the knight stayed his hand. 'Justice is not always death,' he said, helping the man to his feet. The enemy, moved by this compassion, swore to change his ways. Over time, he became a protector of the weak, dedicating his life to defending the very village he once threatened. The people saw in him a testament to Torm’s mercy and redemption. To this day, the village tells the story of the knight who turned an enemy into a champion of justice, proving that compassion can heal even the darkest hearts."*
+*"A knight once faced an enemy who begged for mercy after defeat. Others urged him to deliver the final blow, but the knight stayed his hand. 'Justice is not always death,' he said, helping the man to his feet. The enemy, moved by this compassion, swore to change his ways. Over time, he became the protector of the very people he once sought to harm, dedicating his life to defending the weak and championing justice. The villagers came to see him not as a former enemy but as a testament to the redemptive power of mercy and the will of Torm. To this day, his tale reminds all that even the darkest hearts can be turned toward light."*
 
 **Core Message:** Mercy and compassion can inspire redemption and turn even adversaries into allies, demonstrating the transformative power of justice.
 
 ### The Farmer’s Shield
-*"A humble farmer once found himself in the path of a marauding band of raiders. Though untrained in combat, he raised a makeshift shield and stood before his family, determined to protect them. When the raiders came, the townsfolk, inspired by his courage, rallied to his side. Together, they drove off the attackers. The farmer’s shield, once simple and crude, became a symbol of the unity and bravery of the people. It now hangs in the village square, a reminder that even the ordinary can stand strong when guided by faith and courage."*
+*"A humble farmer once found himself in the path of a marauding band of raiders. Though untrained in combat, he raised a makeshift shield and stood before his family, determined to protect them. When the raiders came, the townsfolk, inspired by his courage, rallied to his side. Together, they drove off the attackers. The farmer’s shield, once simple and crude, became a symbol of the unity and bravery of the people. It now hangs in the village square, a reminder that even the ordinary can stand strong when guided by faith and courage. Each harvest, the villagers gather to honor Torm and the courage that saved them."*
 
 **Core Message:** Courage inspires unity, and even the smallest acts of bravery can lead to great victories.
 
 ### The Broken Blade
-*"A paladin of Torm, his sword shattered in battle, faced a rampaging demon with nothing but the hilt of his weapon. Refusing to retreat, he used the remnants of his blade to parry blows, holding the line long enough for his comrades to regroup and banish the demon. Though his blade was broken, his spirit remained unyielding. The hilt was later reforged into a ceremonial relic, carried by future champions of Torm as a reminder that strength is found not in steel, but in the unwavering resolve to do what is right."*
+*"A paladin of Torm, his sword shattered in battle, faced a rampaging demon with nothing but the hilt of his weapon. Refusing to retreat, he used the remnants of his blade to parry blows, holding the line long enough for his comrades to regroup and banish the demon. Though battered and broken, the paladin stood triumphant. The hilt was later reforged into a ceremonial relic, carried by future champions of Torm as a reminder that strength is found not in steel, but in the unwavering resolve to do what is right."*
 
 **Core Message:** Duty transcends limitations; even when all seems lost, commitment to righteousness can lead to triumph.
 
@@ -109,6 +109,8 @@ and find solace in your unending light."*
 *"During a storm that plunged an entire village into darkness, a cleric of Torm lit a single lantern and walked the streets, guiding people to safety. Though weary, the cleric never faltered, ensuring every soul found shelter. By dawn, the storm had passed, and the cleric’s lantern became a symbol of hope. The village later enshrined the lantern in their chapel, its flame representing the guiding light of Torm and the power of perseverance. The cleric’s actions taught the people that even in the darkest times, a single light can lead the way."*
 
 **Core Message:** Hope and guidance often come from the smallest efforts; never underestimate the power of light in darkness.
+
+---
 
 ## Adages and Sayings
 - *"Duty unites us; courage defines us; compassion redeems us."*
