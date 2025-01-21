@@ -81,35 +81,34 @@ Receive this soul into your eternal care.
 May they rest in the peace of duty fulfilled,  
 and find solace in your unending light."*
 
-## Short Stories to Inspire
-# Teachings of Torm: Quotes, Prayers, and Inspiration
+---
 
 ## Short Stories to Inspire
 
 ### The Vigilant Soldier
-*"There once was a soldier who stood watch for three days without rest. When asked why he did not take a moment to sleep, he said, 'Because if I falter, others may fall. Duty is my shield, and vigilance my blade.' When his watch ended, the town he protected remained untouched by harm. The soldier, overcome by exhaustion, passed away at his post. To this day, his body remains as a homage to his unwavering sacrifice. The village, inspired by his courage, remains ever vigilant, needing no other guards. Every year, the townsfolk leave gifts at his resting place, honoring his memory and worshipping Torm through his ultimate act of duty."*
+*"There once was a soldier who stood watch for three days without rest. When asked why he did not take a moment to sleep, he said, 'Because if I falter, others may fall. Duty is my shield, and vigilance my blade.' His unwavering watch inspired the village to remain ever vigilant themselves. Though his post eventually ended, his example taught the people that protection begins with courage and steadfastness. To this day, the village credits their peace to the soldier’s unyielding dedication, honoring his legacy with acts of vigilance and faith in Torm."*
 
-**Core Message:** Duty requires vigilance and sacrifice, and even in death, the righteous can inspire protection and faith.
+**Core Message:** Duty requires vigilance and sacrifice, as protection often depends on those who stand steadfast in their resolve.
 
 ### The Compassionate Knight
-*"A knight once faced an enemy who begged for mercy after defeat. Others urged him to deliver the final blow, but the knight stayed his hand. 'Justice is not always death,' he said, helping the man to his feet. The knight and the former enemy became allies, and their bond forged a peace that lasted for decades. In his later years, the knight passed away peacefully, his deeds celebrated in tales that reminded all of the power of mercy. To this day, the lands he protected remain united, and his tomb is adorned with carvings of the moment he chose compassion over wrath, a symbol of Torm’s merciful justice."*
+*"A knight once faced an enemy who begged for mercy after defeat. Others urged him to deliver the final blow, but the knight stayed his hand. 'Justice is not always death,' he said, helping the man to his feet. The enemy, moved by this compassion, swore to change his ways. Over time, he became a protector of the weak, dedicating his life to defending the very village he once threatened. The people saw in him a testament to Torm’s mercy and redemption. To this day, the village tells the story of the knight who turned an enemy into a champion of justice, proving that compassion can heal even the darkest hearts."*
 
-**Core Message:** True justice includes compassion, and mercy can create lasting peace and unity.
+**Core Message:** Mercy and compassion can inspire redemption and turn even adversaries into allies, demonstrating the transformative power of justice.
 
 ### The Farmer’s Shield
-*"A humble farmer once found himself in the path of a marauding band of raiders. Though untrained in combat, he raised a makeshift shield and stood before his family, determined to protect them. When the raiders came, the townsfolk, inspired by his courage, rallied to his side. Together, they drove off the attackers, but the farmer perished in the fray, his shield shattered. To honor his sacrifice, the village rebuilt the shield in iron and placed it in their square as a reminder that even the meek can stand strong. The shield remains a sacred symbol of Torm’s courage, and every harvest festival, the townsfolk gather to offer thanks for the protection of the faithful."*
+*"A humble farmer once found himself in the path of a marauding band of raiders. Though untrained in combat, he raised a makeshift shield and stood before his family, determined to protect them. When the raiders came, the townsfolk, inspired by his courage, rallied to his side. Together, they drove off the attackers. The farmer’s shield, once simple and crude, became a symbol of the unity and bravery of the people. It now hangs in the village square, a reminder that even the ordinary can stand strong when guided by faith and courage."*
 
-**Core Message:** Courage inspires unity, and selfless sacrifice leaves a legacy of strength and gratitude.
+**Core Message:** Courage inspires unity, and even the smallest acts of bravery can lead to great victories.
 
 ### The Broken Blade
-*"A paladin of Torm, his sword shattered in battle, was left defenseless against a rampaging demon. Rather than retreat, he used the hilt of his blade to block a killing blow, buying his comrades time to strike the final blow. The paladin succumbed to his injuries, but his bravery turned the tide of battle. His broken blade was forged into a ceremonial relic, carried by future champions of Torm as a reminder that duty does not falter in the face of adversity. Pilgrims visit his resting place, leaving prayers and offerings, and his story inspires new generations to uphold righteousness."*
+*"A paladin of Torm, his sword shattered in battle, faced a rampaging demon with nothing but the hilt of his weapon. Refusing to retreat, he used the remnants of his blade to parry blows, holding the line long enough for his comrades to regroup and banish the demon. Though his blade was broken, his spirit remained unyielding. The hilt was later reforged into a ceremonial relic, carried by future champions of Torm as a reminder that strength is found not in steel, but in the unwavering resolve to do what is right."*
 
-**Core Message:** Duty transcends limitations, and even in death, the righteous can empower others to carry their legacy forward.
+**Core Message:** Duty transcends limitations; even when all seems lost, commitment to righteousness can lead to triumph.
 
 ### The Lantern Bearer
-*"During a storm that plunged an entire village into darkness, a cleric of Torm lit a single lantern and walked the streets, guiding people to safety. The cleric continued despite exhaustion, ensuring all were safe, but collapsed as dawn broke. The lantern, left burning, was said to have never extinguished. It now resides in the village chapel, its eternal flame a symbol of Torm’s guiding light and the cleric’s unyielding devotion. Every year, villagers gather at the chapel to celebrate the light that saved them, a reminder that even the smallest efforts can leave a lasting impact."*
+*"During a storm that plunged an entire village into darkness, a cleric of Torm lit a single lantern and walked the streets, guiding people to safety. Though weary, the cleric never faltered, ensuring every soul found shelter. By dawn, the storm had passed, and the cleric’s lantern became a symbol of hope. The village later enshrined the lantern in their chapel, its flame representing the guiding light of Torm and the power of perseverance. The cleric’s actions taught the people that even in the darkest times, a single light can lead the way."*
 
-**Core Message:** Hope and guidance endure through acts of selflessness, and even small deeds can light the way for generations.
+**Core Message:** Hope and guidance often come from the smallest efforts; never underestimate the power of light in darkness.
 
 ## Adages and Sayings
 - *"Duty unites us; courage defines us; compassion redeems us."*
