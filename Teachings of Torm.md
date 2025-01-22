@@ -117,9 +117,9 @@ Bruised and battered, the paladin knelt where the demon had fallen, his broken w
 *"One fateful day, a storm of unnatural darkness and freezing cold swept through a village, blotting out the sun in an instant. Snow fell in great drifts, and the villagers, caught unprepared, found themselves trapped outside in the deadly cold. Amid the chaos, a warrior of Torm emerged, carrying a single lantern that shone defiantly against the darkness. 
 
 He guided panicked villagers to safety, ensuring each found their way home. 
- ~~But as the storm grew fiercer, the lantern’s light faltered, and the warrior made a fateful decision. Stripping his own cloak, he used the fabric to reignite the flame, shielding it with his body. He stood at the heart of the village, burning away his very garments to keep the light alive, becoming a beacon for those still lost.~~
+ But as the storm grew fiercer, the lantern’s light faltered, and the warrior made a fateful decision. Stripping his own cloak, he used the fabric to reignite the flame, shielding it with his body. He stood at the heart of the village, burning away his very garments to keep the light alive, becoming a beacon for those still lost.
 
-~~When the storm finally passed, five feet of snow blanketed the ground, but the light still shone, undimmed. The warrior was found standing, frozen in place, his body shielding the flame that had saved the village. The people buried him with honor, building a great tomb around the spot where he stood.~~
+When the storm finally passed, five feet of snow blanketed the ground, but the light still shone, undimmed. The warrior was found standing, frozen in place, his body shielding the flame that had saved the village. The people buried him with honor, building a great tomb around the spot where he stood.
 
 The flame was preserved, becoming an eternal beacon that drives away all manner of evil and reveals the truth. To this day, the villagers honor his sacrifice, and the light of Torm continues to shine, protecting the faithful from darkness and deception."*
 
