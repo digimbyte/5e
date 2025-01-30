@@ -18,9 +18,19 @@ On my **eighth birthday**, the monastery came for my uncle. He was chosen, honor
 
 ## **II. Chosen by the Monastery**  
 
-When the monastery returned years later, they came for me. Their visits were rare, their words measured, but when they arrived in Sunderstaad, they **chose** those who would walk a higher path in Torm’s service.  
+When the monastery returned years later, they came for me. Their visits were rare, their words measured, and their selection was never questioned. To be chosen was to serve—a path walked by only a few, whispered about with both reverence and longing.  
 
-I did not hesitate. I left **Sunderstaad** with my head high, my heart filled with certainty.  
+They did not seek the strongest or the most skilled. They sought **devotion**, those who lived by the tenets of Torm not just in prayer, but in action. When the monks arrived in **Sunderstaad**, they moved through the village like specters, speaking in low voices to the elders, observing in silence.  
+
+When they called my name, I **did not hesitate**.  
+
+I left **Sunderstaad** with my head high, my heart filled with certainty. My family watched in solemn pride, my mother pressing a bundle of cloth into my hands—a simple token, stitched with her own hands, a reminder of home. My father clasped my shoulder, his grip firm but his words few. My younger brother stood at a distance, his expression unreadable, while my baby sister clung to my mother’s side, too young to understand.  
+
+As I stepped beyond the village, the **Totem of Torm** stood in the distance, its ancient mast glinting in the sunlight, as though watching over my departure.  
+
+I was leaving behind everything I had known. But I was walking into **something greater**.  
+
+I did not look back.  
 
 ---
 
