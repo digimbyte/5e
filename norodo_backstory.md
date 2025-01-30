@@ -140,11 +140,17 @@ I had no answer.
 
 Erys stayed with me for **several nights**, guiding me through unfamiliar paths, teaching me the ways of the land. She never asked about my past. Never questioned my silence. And in turn, **I learned to listen**, not just to her words but to the world around me. **The music of the wind. The rhythm of the earth beneath my feet.**
 
+
+During our travels, I admitted that my appearance might unsettle others. When she asked why, I hesitated before answering.  
+*"An accident,"* I said, the words hollow even to my own ears.  
+
+Erys suggested a fire—her tone almost carrying a double meaning, not just a question but a statement. She did not pry further, only nodding in quiet understanding. Over our final days of travel, we fastened together a new clothing kit for me, a patchwork of old and new. It was cumbersome, but it helped draw less ire and attention. **Scars of fire** became my new cover, a quiet deception wrapped beneath robes and a simple woven mask.
+
 When we reached the next **trading post**, she turned to me with a small smile. 
 
 > "The world is cruel, but balance exists. Wear this as a reminder that you are part of it, no matter what others see."
 
-She placed a small **bone-carved amulet** in my hands, smooth and polished. I held it close, feeling the weight of her words settle into my bones.
+She placed a small **bone-carved raven head amulet** in my hands, smooth and polished. I held it close, feeling the weight of her words settle into my bones.
 
 And then she was gone, disappearing into the roads beyond, leaving me to walk my path alone once more.
 
@@ -152,7 +158,7 @@ But this time, I carried a **song** with me.
 
 **The pilgrimage had begun.**
 
-~~In the early days of my exile, I stumbled upon a worn lute abandoned in the corner of a ruined chapel. Drawn to its melancholic shape and the promise of expression, I took it with me. At first, my clumsy hands struggled with the strings, but in time, the lute became an extension of my soul. Each note was a lament, each chord a prayer, and every melody a quiet vow to Torm and to those who suffered as I had. Through the lute, I found a way to process my pain, turning sorrow into something tangible, something meaningful.~~
+---
 
 For years, I traveled from place to place, guided by chance and the quiet belief that Torm’s light still watched over me. I found work where I could, tending to the dead and offering final rites in secret. Along the way, I encountered both kindness and cruelty: a blind mystic who accepted me without judgment, a gruff caravan leader who valued my skills over appearances, and a halfling merchant whose practical wisdom reminded me that survival is a journey, not a destination. These fleeting connections strengthened my resolve to live by Torm’s teachings, even as the world seemed to reject me.
 
