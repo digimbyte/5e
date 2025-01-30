@@ -72,8 +72,6 @@ I awoke to silence. My body was changed. **Reshaped. Altered beyond recognition.
 
 I was kept away from the other acolytes, hidden from those who had once been my kin. **This was my higher form**, I was told. I was stronger, suited for a **greater purpose**.  
 
-Our island was no stranger to the sea, and the elders hinted of **an underwater city** nearby—one that held mysteries older than our faith. I was to serve a role in something beyond what the others understood. **I believed them.**  
-
 But doubt took root. The original scriptures spoke of **purity**, yet this process felt like corruption. Some elders called it **a test**, a challenge to my devotion. Others claimed that the body was temporary, that only the teachings mattered. **But I knew in my heart—Torm would not wish for this.**  
 
 My questions brought whispers. My solitude became isolation. And in the catacombs, where I was sent to meditate, my mind began to break.  
