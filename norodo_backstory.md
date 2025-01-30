@@ -140,9 +140,11 @@ And that was when I met **Erys Valemir**.
 
 A blind mystic, wandering alone, staff tapping against the stone. She moved as though she could see the world clearer than most, her face serene, untouched by the fear that had chased me from my home. **She did not recoil at my presence. She did not ask what I was.** Instead, she sat beside me as I struggled with the strings, listening, waiting.
 
-> "It is broken," she said.
+She said.
+> "It is broken," 
 
-I nodded. "I'm trying to fix it."
+I nodded. 
+> "I'm trying to fix it."
 
 > "So are you."
 
