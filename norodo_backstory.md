@@ -92,7 +92,7 @@ So I obeyed. Because faith is not for oneself—it is for something greater.
 
 Torm’s will is all that matters. And I **will serve.**
 
-# A Pilgrim of Torm, Shaped by Shadows
+---
 
 ## **VII. The Road Home, and the Price of Change**
 
