@@ -178,7 +178,7 @@ Then, eight months later, the **Orcish War** began. Winterhaven fell under siege
 
 ---
 
-# *[Origin: Haunted One]*
+### *[Origin: Haunted One]*
 
 One fateful night, while preparing mass graves, I encountered a field of twisted corpses, their faces frozen in expressions of unspeakable terror. Whispers filled the air, accusing me of failure, betrayal, and cowardice. I fled, unable to complete my work, the haunting voices following me long after the battlefield fell silent.
 
