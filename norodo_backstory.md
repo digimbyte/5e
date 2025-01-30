@@ -76,7 +76,7 @@ But doubt took root. The original scriptures spoke of **purity**, yet this proce
 
 My questions brought whispers. My solitude became isolation. And in the catacombs, where I was sent to meditate, my mind began to break.  
 
-The elders saw. They feared what would come next. So, under the guise of **pilgrimage**, they sent me away. **A journey to seek Torm—or banishment in all but name?**  
+The elders saw. Some feared what would come next, whispering of heresy and consequence. But one, my overseer "Bur'wian", saw something else—potential, purpose. He warned me in secret, urging me to flee before escalation turned to execution. Officially, it was a death sentence. Unofficially, a promise of sanctuary, a path unseen but not abandoned. And so, under the guise of **pilgrimage**, I left. A journey to seek Torm—or exile in all but name?
 
 So I obeyed. Because faith is not for oneself—it is for something greater.  
 
