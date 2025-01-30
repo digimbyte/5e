@@ -1,36 +1,46 @@
 # Year 1: Fleeing Highrock
 
-**Key Event**: After your escape from the Order of the Bound Scale, you wandered through the Fairheight Mountains, exhausted and malnourished. One fateful evening, you encountered a blind traveler making their way through the rocky terrain.
+**Key Event**:  After fleeing Highrock, you wandered through the **Fairheight Mountains**, exhausted and malnourished. One night, you encountered **Erys Valemir**, a blind mystic who moved with eerie precision. She mistook you for a fellow pilgrim and offered to guide you to safer lands, asking nothing but your company in return.
 
-**Contact**: **Erys Valemir**, a blind mystic wandering the mountains.  
-Erys claimed to follow no god but instead sought balance in the world. Despite her blindness, she moved with uncanny precision, using a staff to guide her steps. She mistook you for a fellow pilgrim and offered to guide you to safer lands, asking only for your company in return.
+**Contact**: **Erys Valemir**, a blind mystic.  
+She never questioned your silence or your appearance, only speaking of **balance** and the paths unseen. Over time, she helped you fashion a **new clothing kit**, a patchwork of old and new, and suggested a **scarred past by fire** to explain what lay beneath.
 
-**Dynamic**: Erys never questioned your robes or your silence about your past. In fact, she appreciated your quiet presence, finding comfort in your reverence for life. You, in turn, found solace in her wisdom and resilience. Her blindness allowed her to see past your appearance, treating you with dignity when others would recoil in fear.
+**Dynamic**:  Erys carried a quiet understanding, never prying but always **listening**. She sensed the weight you bore but knew better than to ask. During your travels, you admitted that your visage might offend others. When she inquired why, you hesitated before answering,  
+*"An accident."*  
+She responded with a simple suggestion—**fire**, her tone carrying more than one meaning.  
 
-**Parting Gift**: When you eventually parted ways at a small trading post on the outskirts of the mountains, Erys gave you a small amulet carved from polished bone, saying:  
+By your final week together, she had helped craft a new **woven mask and robes**, practical but concealing, allowing you to pass unnoticed. She did not pity you, nor did she fear you. That alone made her different.
+
+**Parting Gift**:  Erys led you to the **gates of Caer Callidyrr**, where she offered **one final meal** before her departure. Before leaving, she placed a **bone-carved amulet** in your hands, whispering:  
 > “The world is cruel, but balance exists. Wear this as a reminder that you are part of it, no matter what others see.”
 
+**Finding Work**:  With the **monks of Highrock** present in the city, you remained unnoticed, seeking a quieter path. You turned to **burial rites and aftercare**, tending to the forgotten dead, adventurers lost to misfortune, and those without family. **Your mother’s sewing skills became invaluable**, piecing together broken bodies for their final rest.  
+
+Among the dead, there were no questions—only silence.
 ---
 
-# Year 2: Sunderstaad to Baldur’s Gate
+# **Year 2: Caer Callidyrr to Baldur’s Gate**
 
-**Key Event**: After leaving Sunderstaad, you made your way to **Baldur’s Gate**, a sprawling city where anonymity could be maintained amid the bustling crowds. Here, you found work in the Lower City as an assistant to **Doran Graive**, a mortician known for his pragmatic approach to death and the living.
+**Key Event**:  
+Settling in **Caer Callidyrr**, you took quiet work as an **undertaker and crypt keeper**, tending to the dead where others would not. Your skill in **preparing bodies for final rites** earned quiet appreciation, though you remained unseen and unheard by most.  
+
+However, whispers began to spread—a **Torm worshiper working the crypts**, a healer among the dead. The **monks of Highrock** took notice, asking questions, searching for answers. The walls of sanctuary began to close. Rather than risk discovery, you fled **south to Kythyss**, seeking passage on a **merchant ship bound for Baldur’s Gate**.
 
 **Torm’s Place in Baldur’s Gate**:  
-While Torm is respected, Baldur’s Gate is more prominently influenced by deities like **Gond** (patron of craft and innovation) and **Umberlee** (feared by sailors). The **Order of the Radiant Heart**, an organization devoted to Torm, Tyr, and Helm, exists within the city, but its influence is minor compared to the city’s mercantile and seafaring deities. Your faith in Torm would have been seen as unusual but not unwelcome—many in Baldur’s Gate respect quiet, functional devotion.
+Baldur’s Gate, unlike the **Moonshae Isles**, held no place for quiet reverence. The city thrived on trade and necessity, where **Gond, Umberlee, and coin** dictated fate more than faith. The **Order of the Radiant Heart**, a faction devoted to Torm, Tyr, and Helm, existed in the Upper City but held little sway over the common folk. To the Lower City, faith was **a means, not an end**.  
 
-**Contact**: **Doran Graive**, a pragmatic mortician who found value in your skill and discretion.  
-He saw your dedication to funerary rites and appreciated your willingness to work with the dead others shunned. However, he didn’t speak much of faith, preferring a more grounded perspective on life and death.
+**Contact**: **Doran Graive**, a pragmatic mortician.  
+In Baldur’s Gate, you sought **discreet work**, finding a place in the **Lower City morgues** under **Doran Graive**, a mortician who saw **value in silence and skill**. He appreciated your willingness to work with the **unclaimed and unwanted**, caring little for the reasons behind your concealed nature.
 
-**Why Winterhaven?**  
-Doran had a cousin who had settled in the **Nentir Vale**, sending back stories of an expanding frontier with opportunity for healers and craftsmen. He casually mentioned this as he mused on the state of the world, saying:  
-> “If there’s anywhere left to start fresh, it’s out there in the Vale. Seems folk there respect hard work.”
+**Dynamic**:  
+Doran did not speak much of **faith**, preferring the **cold certainty of death** over divine purpose. He taught you **efficiency in the trade**, how to work unnoticed, how to separate **practicality from sentiment**. In him, you saw a man untouched by the burdens of belief, a stark contrast to your own unwavering devotion.  
 
-**Dynamic**: Doran didn’t press you about your past but valued your professionalism. He left a strong impression on you with his calm, almost clinical, view of mortality.
+Yet, his indifference was a form of **acceptance**. He never asked why you hid. He only ensured you had **work, shelter, and purpose**.
 
 **Parting Words**:  
-After rumors spread about your concealed appearance, forcing you to leave the city, Doran said:  
-> “It’s a cruel thing when folk can’t look past shadows. Wherever you go, lad, just keep doing right by the dead. They’ll never judge you.”
+As **whispers of your concealed identity** grew in Baldur’s Gate, Doran saw the signs before you did. He offered a final piece of advice before you were forced to leave.  
+
+> *“It’s a cruel thing when folk can’t look past shadows. Wherever you go, lad, just keep doing right by the dead. They’ll never judge you.”*
 
 ---
 
