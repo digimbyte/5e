@@ -176,9 +176,12 @@ Finally, five years after my exile, my wandering brought me to **Winterhaven**, 
 
 Then, eight months later, the **Orcish War** began. Winterhaven fell under siege, and I once again found myself surrounded by death and chaos. The call to action was immediate, and I stepped forward to assist in evacuating refugees, tending to the dead, and treating the wounded. It was during this time that the true horror began.
 
-One fateful night, while preparing mass graves, I encountered a field of twisted corpses, their faces frozen in expressions of unspeakable terror. Whispers filled the air, accusing me of failure, betrayal, and cowardice. I fled, unable to complete my work, the haunting voices following me long after the battlefield fell silent.
+---
 
 *[Origin: Haunted One]*
+One fateful night, while preparing mass graves, I encountered a field of twisted corpses, their faces frozen in expressions of unspeakable terror. Whispers filled the air, accusing me of failure, betrayal, and cowardice. I fled, unable to complete my work, the haunting voices following me long after the battlefield fell silent.
+
+---
 
 When Winterhaven fell, I joined the survivors in their flight eastward, my reclusive nature returning as I grappled with the guilt and torment of that night. In the newly established **New Winterhaven**, I dedicated myself to rebuilding—physically, emotionally, and spiritually. I worked tirelessly as a healer and mortician, quietly tending to the community and ensuring the dead found peace. The lute became my solace, a ritual companion that allowed me to channel my grief and guilt into haunting melodies. Under the light of the full moon, I play songs of lamentation and tribute, honoring those who were lost and vowing to guide others away from the pain I endured.
 
