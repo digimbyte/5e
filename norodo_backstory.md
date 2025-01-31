@@ -130,9 +130,15 @@ I had nowhere left to go. My only path forward led **south**, back through **Hig
 
 By the time I emerged from the mountain roads, exhaustion clung to me like a second skin. My **weeks lingering near Sunderstaad** had taken their toll, the weight of rejection pressing on my shoulders like an anchor. My faith was unshaken, but my sense of belonging had crumbled. 
 
-It was during these wandering days that I found **the lute**, drawn by its melancholic shape and the promise of expression.
+It was during these wandering days that I found **the lute**.  
 
-It was a broken thing, discarded in the corner of a **ruined chapel**, half-buried beneath dust and time. Its strings were snapped, its wood worn, but something about it **called to me**. I took it in my hands, turning it over, feeling the weight of forgotten music. **"A voice without words."** I said to myself unprompted.
+An **old shack**, its **foundations barely visible beneath the overgrowth**, stood forgotten in a quiet clearing. Time had gnawed at its edges, the wood warped, the roof caved inward, yet something about its **unnatural shape** held my curiosity.
+
+Inside, beneath collapsed beams and dust-laden silence, I found it.  
+
+A **broken thing**, discarded in the corner, half-buried in the remnants of a life long abandoned. Its **strings snapped**, its **wood worn**, but something about it **called to me**. I took it in my hands, turning it over, feeling the weight of **forgotten music**.  
+
+> **A voice without words.** I said to myself unprompted.
 
 I did not know how to play, but I tried. **I restrung it. I tuned it. I plucked the strings in the early dawn, fumbling, learning.**
 
