@@ -11,7 +11,7 @@ She responded with a simple suggestion—**fire**, her tone carrying more than o
 
 By your final week together, she had helped craft a new **woven mask and robes**, practical but concealing, allowing you to pass unnoticed. She did not pity you, nor did she fear you. That alone made her different.
 
-**Parting Gift**:  Erys led you to the **gates of Caer Callidyrr**, where she offered **one final meal** before her departure. Before leaving, she placed a **bone-carved amulet** in your hands, whispering:  
+**Parting Gift**:  Erys led you to the **gates of Caer Callidyrr**, before leaving, she placed a **bone-carved amulet** in your hands, whispering:  
 > “The world is cruel, but balance exists. Wear this as a reminder that you are part of it, no matter what others see.”
 
 **Finding Work**:  With the **monks of Highrock** present in the city, you remained unnoticed, seeking a quieter path. You turned to **burial rites and aftercare**, tending to the forgotten dead, adventurers lost to misfortune, and those without family. **Your mother’s sewing skills became invaluable**, piecing together broken bodies for their final rest.  
